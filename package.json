@@ -1,0 +1,26 @@
+{
+  "name": "buses-api",
+  "version": "0.0.1",
+  "description": "Module that gives Argentina long distance buses schedules",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Urucas/buses-api.git"
+  },
+  "keywords": [
+    "bus",
+    "argentina",
+    "buses",
+    "schedule",
+    "time"
+  ],
+  "author": "Urucas <hello@urucas.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Urucas/buses-api/issues"
+  },
+  "homepage": "https://github.com/Urucas/buses-api#readme"
+}
