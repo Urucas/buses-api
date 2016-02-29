@@ -1,0 +1,8 @@
+{
+  "name" : "buses-api",
+  "description" : "API para obtener la informacion de los horarios de colectivo de larga distancia en Argentina",
+  "repository": "https://github.com/Urucas/buses-api",
+  "keywords": [
+    "rosario", "buses", "bus", "datos abiertos", "opendata", "informacion"
+  ]
+}
