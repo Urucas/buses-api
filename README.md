@@ -40,7 +40,7 @@ buses.travel(7172, 2000).then(travels) => {
 
 
 * /gities
-```json
+```
 [ ..., 
   { id: '7172', nombre: 'General Roca (CBA)' }, 
   ..., 
@@ -48,7 +48,7 @@ buses.travel(7172, 2000).then(travels) => {
 ... ]
 ```
 * /travel?origin=7172&dest=2000
-```json
+```
 [{ 
   origen: 7172, destino: 2000,
   empresa: { 
